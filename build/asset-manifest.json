@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46a6907e.chunk.css",
+    "main.js": "/static/js/main.1466c41f.chunk.js",
+    "main.js.map": "/static/js/main.1466c41f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.641e2c7b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.641e2c7b.js.map",
+    "static/css/2.2a18363d.chunk.css": "/static/css/2.2a18363d.chunk.css",
+    "static/js/2.f9375eb5.chunk.js": "/static/js/2.f9375eb5.chunk.js",
+    "static/js/2.f9375eb5.chunk.js.map": "/static/js/2.f9375eb5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef5d066bb355c2cde00c679bf96f0f1e.js": "/precache-manifest.ef5d066bb355c2cde00c679bf96f0f1e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2a18363d.chunk.css.map": "/static/css/2.2a18363d.chunk.css.map",
+    "static/css/main.46a6907e.chunk.css.map": "/static/css/main.46a6907e.chunk.css.map",
+    "static/media/1.jpeg": "/static/media/1.4b47848e.jpeg",
+    "static/media/style.css": "/static/media/Pacifico-webfont.e241d4a2.woff2",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.641e2c7b.js",
+    "static/css/2.2a18363d.chunk.css",
+    "static/js/2.f9375eb5.chunk.js",
+    "static/css/main.46a6907e.chunk.css",
+    "static/js/main.1466c41f.chunk.js"
+  ]
+}
